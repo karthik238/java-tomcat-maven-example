@@ -1,4 +1,4 @@
-FROM likhithmg18/tomcat9maven:v1
+FROM sreedocker123/tomcat9maven:v1
 WORKDIR /app
 COPY . /app
 RUN mvn package
