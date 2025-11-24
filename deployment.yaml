@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: labmaven
-        image: karthik007/tomcat:latest
+        image: karthikk007/tomcat:latest
         ports:
         - containerPort: 8080
