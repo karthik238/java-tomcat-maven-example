@@ -1,2 +1,2 @@
-deploy war/ear to container
+deploy war/ear to container(post build)
 **/*.war
